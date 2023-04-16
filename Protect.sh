@@ -1,6 +1,6 @@
 
 ##voici comment lancer le script
-sudo bash script.sh
+sudo bash protect.sh
 ### ici sudo bash script.sh
 
 #!/bin/bash
